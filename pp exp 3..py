@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 17 12:35:33 2026
 
-@author: Agce
+@author:  nayan jadhav
 """
 
 n=int(input("Enter number of rows:"))
