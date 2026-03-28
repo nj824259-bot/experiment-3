@@ -2,7 +2,7 @@
 """
 Created on Tue Feb 17 13:11:44 2026
 
-@author: Agce
+@author:  nayan jadhav
 """
 
 def simple_interest(principal,rate,time):
